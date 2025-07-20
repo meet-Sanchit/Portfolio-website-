@@ -1,18 +1,21 @@
-Sanchit | Modern Portfoli Website
-A sleek, responsive portfolio sie for web developers & ui and ux designers.
-Pro Highlights
+**Sanchit | Modern Portfoli Website**
+
+A sleek, responsive portfolio website for web developers & ui and ux designers.
+
+**Pro Highlights**
 1) Fully responsive- Adapts seamless to mobile, tablet and destopo screens.
 2) Dark mode aesthetic- Elegant dark theme with gradient accent (#00F5FF, #00FF9D, #A78BFA).
 3) Interactive elements- Smooth animation hover effcts, and a dynamic testimonial slider.
 4) Glassmorphissm design- Modern uiwith frosted-glass cards and blurred background.
 5) Performance optimized-Lightweight code with HTML, CSS, Vanilla javaScript.
 
-Tech Stack
+**Tech Stack**
+
 Forntent-HTML, CSS3, jS
 Libraries- Font awesome (icons), google fonts (poppins, inter, manrope).
 
-Key Features
-Section
+**Key Features**
+Sections:
 1) Hero (Dynamic gradient text+call to actiion)
 2) Services (6-card frid with icons)
 3) Projects (filterabke gallery with case studies).
@@ -20,3 +23,18 @@ Section
 5) FAQ (expandable accodiion).
 6) Contact form
 
+**How To Use**
+1) Clone. the repository
+2) Bash.
+3) Repository url.
+4) Open index.html in any modern browser.
+5) Customize content, colors, and images as needed.
+
+**Designed for developers who love clean, modern portfolio websites.**
+
+**Why This Project?**
+- Perfect for freelancers to showcase their work.
+- NO frameworkes easy to modify amd depoly.
+- Seo friendly structure with semantic HTML.
+
+**Star 🌟 the repository if you find it useful.**
